@@ -73,10 +73,10 @@ export default function MapScreen() {
       headerImage={
         <>
           <Image
-            source={require("@/assets/images/phase7-logo.png")}
+            source={require("@/assets/territory-banner/phase7-logo.png")}
             style={styles.bannerLogo}
           />
-           <Text style={styles.titleContainer}>Terr. # 40: Phase 7</Text>
+          <Text style={styles.titleContainer}>Terr. # 40: Phase 7</Text>
         </>
       }
     >
