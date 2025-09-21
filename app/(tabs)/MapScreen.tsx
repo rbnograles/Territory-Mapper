@@ -102,7 +102,8 @@ export default function MapScreen() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "white",
+    alignItems: "center",
+    backgroundColor: "#f0f0f0",
     overflow: "hidden",
   },
   headerImage: {
